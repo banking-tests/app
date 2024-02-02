@@ -188,7 +188,7 @@ export function Dashboard() {
               </CardContent>
             </Card>
           </Grid>
-          <Grid item sm={6} md={6}>
+          <Grid item xs={12} sm={6} md={6}>
             <Card elevation={0}>
               <CardContent>
                 <Box px={2} py={1}>
